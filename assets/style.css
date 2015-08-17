@@ -264,6 +264,8 @@ footer .footer-below {
 	h4 {font: 300 1.2em 'Droid Sans', sans-serif}
 	#partners h2{padding: 0 1em;} 
 	#works {padding-top: 5em;}
+    #works h2{font-size: 3em}
+    #works p {font-size: 1.2em}
 
 	.partners{display: block;float: left;}
 	.partners img{width: 120px;}
